@@ -6,7 +6,7 @@ function SignUpPage() {
 		<div className="grid grid-cols-1 md:grid-cols-2">
 			<div className="">
 				<Image
-					src={"auth-page.jpg"}
+					src={"/auth-page.jpg"}
 					alt="Auth Image"
 					width={500}
 					height={500}
